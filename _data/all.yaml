@@ -1,0 +1,316 @@
+tas:
+  - name: "<a href='mailto:yoonkim@g.harvard.edu'>Yoon</a> (OH: Monday 7-8pm MD (2nd floor lounge)),"
+  - name: "<a href='mailto:carldenton@college.harvard.edu'>Carl</a> (OH: Monday 8-9pm Lowell)"
+
+
+dates: ["", "Jan. 23", "Jan. 25", "Jan. 30", "Feb. 1", "Feb. 6", "Feb. 8", "Feb. 13", "Feb. 15","Feb. 20", "Feb. 22", "Feb. 27.", "Mar. 1", "Mar. 6.", "Mar. 8", "Mar. 20", "Mar. 22", "Mar. 27", "Mar. 29", "Apr. 3", "Apr. 5", "Apr. 10", "Apr. 12", "Apr. 17", "Apr. 19", "Apr. 24", "
+May 3rd", "May 9th"]
+ohs:
+  - time: Tuesday 2:30-4pm
+    location: MD 217 (Sasha)
+
+
+
+lectures:
+  - topic: Sequence Classification
+    subtopic: <a href="lecture1.pdf">Intro</a>| Bag-of-Words
+    hw:
+    papers:
+      - name: "Deep Learning Tutorial"
+        section: Torch
+        link: "http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
+      - name: "Baselines and Bigrams"
+        section: Fundamental
+        link: "http://www.aclweb.org/anthology/P/P12/P12-2.pdf#page=118"
+      - name: "Word Representations in Vector Space"
+        link: "http://arxiv.org/abs/1301.3781"
+      - name: "Deep Learning, NLP, and Representations"
+        section: Blog
+        link: "http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/"
+    section:
+    demos:
+  - topic:
+    subtopic: Convolutions
+    hw:
+    papers:
+      - name: "NLP Tutorial (Basic)"
+        section: Torch
+        link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
+      - name: "Natural language processing (almost) from scratch"
+        section: Fundamental
+        link: "https://arxiv.org/abs/1103.0398"
+      - name: "CNNs for Sentence Classification"
+        link: "http://aclweb.org/anthology/D/D14/D14-1181.pdf"
+      - name: "Understanding Convolutional Neural Networks for NLP"
+        section: Blog
+        link: "http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/"
+    section:
+    demos:
+  - topic: Sequence Modeling
+    hw:  "<a href='https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb'>Classification</a> <a href='https://www.kaggle.com/c/harvard-cs281-hw1'>(Kaggle)</a>"
+    subtopic: NNLMs
+    papers:
+      - name: "Learning Embeddings"
+        link: "http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html"
+        section: Torch
+      - name: "A Neural Probabilistic Language Model"
+        section: Fundamental
+        link: "http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf"
+      - name: "Hierarchical Probabilistic Neural Network Language Model"
+        link: "https://www.iro.umontreal.ca/~lisa/pointeurs/hierarchical-nnlm-aistats05.pdf"
+  - topic:
+    subtopic: RNNs
+    hw:
+    papers:
+      - name: "NLP Tutorial RNNs"
+        section: Torch
+        link: "http://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html"
+      - name: "Recurrent Neural Network-Based Language Model"
+        link: "http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf"
+        section: Fundamental
+      - name: "Generating Text with Recurrent Neural Networks"
+        link: "http://www.cs.utoronto.ca/~ilya/pubs/2011/LANG-RNN.pdf"
+      - name: "Understanding LSTM Networks"
+        section: Blog
+        link: "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"
+      - name: "The Unreasonable Effectiveness of Recurrent Neural Networks"
+        link: "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+      - name: A Bit of Progress in Language Modeling
+        link: https://arxiv.org/abs/cs/0108005
+        section: Extra
+      - name: Exploring the Limits of Language Modeling (Billion word)
+        link: https://arxiv.org/pdf/1602.02410.pdf
+      - name: Do Multi-Sense Embeddings Improve Natural Language Understanding?
+        link: https://arxiv.org/abs/1506.01070
+      - name: TensorBoardX
+        link: https://github.com/lanpa/tensorboard-pytorch
+    section:
+    demos:
+  - topic: Sequence Transduction
+    subtopic: Encoding
+    papers:
+      - name: "Sequence-to-Sequence Learning with Recurrent Neural Networks"
+        section: Fundamental
+        link: "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf"
+      - name: "Named Entity Recognition with Bidirectional LSTM-CNNs"
+        section: Application
+        link: "https://www.aclweb.org/anthology/Q16-1026"
+      - name: "Deep contextualized word representations (new)"
+        link: "https://openreview.net/pdf?id=SJTCsqMUf"
+  - topic:
+    subtopic: Attention
+    papers:
+      - name: "Translation with a Sequence to Sequence Network and Attention"
+        section: Torch
+        link: "http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html"
+      - name: "NMT by Jointly Learning to Align and Translate"
+        section: Fundamental
+        link: "https://arxiv.org/abs/1409.0473"
+      - name: "Show, Attend, and Tell"
+        link: "https://arxiv.org/pdf/1502.03044.pdf"
+      - name: "Attention and Augmented Recurrent Neural Networks"
+        section: Blog
+        link: "https://distill.pub/2016/augmented-rnns/"
+    section:
+    demos:
+  - topic:
+    subtopic: Search
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW2/Homework%202.ipynb">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
+    papers:
+      - name: "Google Neural Machine Translation"
+        section:
+        link: "https://arxiv.org/pdf/1609.08144.pdf"
+      - name: BLEU Score
+        link: "https://aclanthology.info/pdf/P/P02/P02-1040.pdf"
+      - name: "Sequence-to-Sequence Learning as Beam-Search Optimization"
+        section: Application
+        link: "https://arxiv.org/pdf/1606.02960.pdf"
+      - name: "Sequence-level Training with Recurrent Neural Networks"
+        link: "https://arxiv.org/pdf/1511.06732.pdf"
+  - topic:
+    hw:
+    subtopic: REINFORCE
+    papers:
+      - name: Distributions and Sampling
+        section: Torch
+        link: "http://pytorch.org/docs/master/distributions.html"
+      - name: SeqGAN
+        link: "https://arxiv.org/abs/1609.05473"
+        section: "Application"
+      - name: "Gradient Estimation Using Stochastic Computation Graphs"
+        section: Tutorial
+        link: "https://arxiv.org/abs/1506.05254"
+
+  - topic: Latent Variable Models of Text
+    hw:
+    subtopic: Variational Inference/Variational Autoencoders
+    papers:
+      - name: "Variational Inference: A Review for Statisticians"
+        section: Tutorial
+        link: "https://arxiv.org/abs/1601.00670"
+      - section: Torch
+        name: "Variational Autoencoders"
+        link: "https://github.com/pytorch/examples/tree/master/vae"
+      - section: Fundamental
+        name: "Auto-Encoding Variable Bayes"
+        link: "https://arxiv.org/abs/1312.6114"
+
+    section:
+    demos:
+  - topic:
+    subtopic: Generative Adversarial Networks
+    papers:
+      - name: "GANs in 50 lines of code"
+        section: Torch
+        link: "https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f"
+        link: "http://pytorch.org/docs/master/distributions.html"
+
+      - name: "Generative Adversarial Networks"
+        link: "https://arxiv.org/abs/1406.2661"
+        section: Fundamental
+      - name: "NIPS 2016 GAN Tutorial"
+        section: Tutorial
+        link: "https://arxiv.org/pdf/1701.00160.pdf"
+  - topic: NLP Topics
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW3/Homework3.ipynb">Translation</a> <a href="https://www.kaggle.com/c/cs287-hw3-s18/">(Kaggle)</a>
+    subtopic: Problem and Datasets
+    papers:
+      - section: Summary
+        name: Get to the Point
+        link: "https://arxiv.org/abs/1704.04368"
+      - section: Data-to-Text
+        name: E2E Data Challenge
+        link: "https://arxiv.org/pdf/1706.09254.pdf"
+      - section: Translation
+        name: "Six Challenges for Neural Machine Translation"
+        link: "https://arxiv.org/pdf/1706.03872.pdf"
+      - section: Dialogue
+        name: Ubuntu Dataset
+        link: "https://arxiv.org/abs/1506.08909"
+      - section: VAEs
+        name: "VAEs with Yahoo Answers"
+        link: "https://arxiv.org/pdf/1706.09254.pdf"
+      - section: QA
+        name: SQuAD
+        link: "https://arxiv.org/pdf/1606.05250"
+  - topic: "Guest Lecture - Marc'Aurelio Renzato (Facebook)"
+    subtopic: "Structured Training for NMT -  MD G125 4pm "
+    hw:
+  - topic: Midterm
+    subtopic:
+    papers:
+      - name: Guide
+        link: "midterm.pdf"
+    hw:
+  - topic: Projects
+    subtopic: "<a href=\"http://tinyurl.com/srush-schedule\">Discussion Sign-up 11am-3pm</a>"
+    papers:
+      - name: Presentation Sign-ups
+        link: "https://docs.google.com/spreadsheets/d/1Ig4hHR-0pnLyGcPii6mOmJTO4YtmD_WSpCWpJgwCDm8/edit?usp=sharing"
+      - name: Project Ideas
+        link: "https://docs.google.com/spreadsheets/d/18Ga16YxszFA9FnE6f_v65Nmn2_z15HcVn9KIa6nlQKk/edit?usp=sharing"
+  - topic: Student Groups
+    hw:
+    subtopic: Conditional VAEs (Justin, Yoon)
+    papers:
+       - name: Semi-Supervised Learning with Deep Generative Models
+         link: https://arxiv.org/abs/1406.5298
+       - name: Language as a Latent Variable
+         link: https://arxiv.org/abs/1609.07317
+       - name: Neural IBM Model
+         link: https://github.com/uva-slpl/nlp2/blob/gh-pages/resources/project_neuralibm/theory.ipynb
+  - topic:
+    subtopic: Logic Programming / Differentiable Theory Search
+    papers:
+       - name: Modeling Semantic Cognition as Logical Dimensionality Reduction
+         link: "https://cocolab.stanford.edu/papers/KatzEtAl2008-Cogsci.pdf"
+       - name: Learning Explanatory Rules from Noisy Data
+         link: "https://arxiv.org/abs/1711.04574"
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
+  - topic:
+    subtopic: Model Bias / Variational NMT
+    papers:
+       - name: Man is to Computer Programmer as Woman is to Homemaker?
+         link: https://arxiv.org/abs/1607.06520
+       - name: Variational Neural Machine Translation
+         link: https://arxiv.org/abs/1605.07869
+  - topic:
+    subtopic: Image-to-Text / Text-to-Image
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a>
+    papers:
+      - name: StackGAN++
+        link: https://arxiv.org/pdf/1710.10916.pdf
+      - name: A Hierarchical Approach for Generating Descriptive Image Paragraphs
+        link: https://arxiv.org/abs/1611.06607
+      - name: Reading Wikipedia to Answer Open-Domain Questions
+        link: https://arxiv.org/abs/1704.00051
+        section: Speaker
+  - topic:
+    subtopic: Unsupervised MT
+    hw:
+    papers:
+      - name: Unsupervised  Machine Translation Using Monolingual Corpora Only
+        link: https://arxiv.org/abs/1711.00043
+      - name: Unsupervised Neural Machine Translation
+        link: https://arxiv.org/pdf/1710.11041.pdf
+
+  - topic:
+    subtopic: Discrete GANs
+    papers:
+      - name: Wasserstein Auto-Encoders
+        link: https://arxiv.org/abs/1711.01558
+      - name: Adversarially Regularized Autoencoders
+        link: https://arxiv.org/abs/1706.04223
+  - topic:
+    subtopic: Speech
+    papers:
+      - name: Deep Voice 3
+        link: https://arxiv.org/abs/1710.07654
+      - name: Deep Speech 2
+        link: https://arxiv.org/pdf/1512.02595.pdf
+      - name: Learning latent representations for speech generation and transformation
+        link: https://arxiv.org/abs/1704.04222
+  - topic:
+    subtopic: Neural Discourse and Pragmatics
+    hw:
+    papers:
+      - name: Reasoning about Pragmatics with Neural Listeners and Speakers
+        link: https://arxiv.org/pdf/1604.00562.pdf
+      - name: End-to-end Neural Coreference Resolution
+        link: https://arxiv.org/abs/1707.07045
+  - topic:
+    subtopic: Reading Comp. / Summary
+    papers:
+      - name: Adversarial Examples for Evaluating Reading Comprehension Systems
+        link: https://nlp.stanford.edu/pubs/jia2017adversarial.pdf
+      - name: Neural Summarization by Extracting Sentences and Words
+        link: https://arxiv.org/abs/1603.07252
+  - topic:
+    subtopic:  Bio / Style Transfer
+    papers:
+      - name: Sequential Regulatory Activity Prediction across Chromosomes with Convolutional Neural Networks
+        link: https://www.biorxiv.org/content/early/2018/03/22/161851
+      - name: Style Transfer from Non-Parallel Text by Cross-Alignment
+        link: https://arxiv.org/pdf/1705.09655.pdf
+  - topic:
+    subtopic:  Conclusion
+    papers:
+      - name: "MUTAN: Multimodal Tucker Fusion for Visual Question Answering"
+        link: https://arxiv.org/abs/1705.06676
+      - name: "Hierarchical Question-Image Co-Attention for Visual Question Answering"
+        link: http://papers.nips.cc/paper/6202-hierarchical-question-image-co-attention-for-visual-question-answering.pdf       
+  - topic: Final Presentation Talks (Evening)
+    subtopic:
+  - topic: Final Paper Due
+    subtopic:
+
+            # - name: "Structured Inference Networks for Nonlinear State Space Models"
+      #   link: "https://arxiv.org/pdf/1609.09869.pdf"
+      # - name: "Composing graphical models with neural networks for structured representations and fast inference"
+      #   link: "https://arxiv.org/pdf/1603.06277.pdf"
+      # - name: "Generating Sentences from a Continuous Space"
+      #   link: "https://arxiv.org/pdf/1511.06349.pdf"
+      # - name: "A Recurrent Latent Variable Model for Sequential Data"
+      #   link: "http://papers.nips.cc/paper/5653-a-recurrent-latent-variable-model-for-sequential-data.pdf"
+      # - name: "Improved Variational Autoencoders for Text Modeling using Dilated Convolutions"
+      #   link: "https://arxiv.org/pdf/1702.08139.pdf"
