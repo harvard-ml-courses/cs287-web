@@ -1,9 +1,9 @@
 tas:
-  - name: "<a href='mailto:yoonkim@g.harvard.edu'>Yoon</a> (OH: Monday 7-8pm MD (2nd floor lounge)),"
-  - name: "<a href='mailto:carldenton@college.harvard.edu'>Carl</a> (OH: Monday 8-9pm Lowell)"
+  - name: "<a href='mailto:justinchiu@g.harvard.edu'>Justin</a> (OH: TBD),"
+  - name: "<a href='mailto:dengyuntian@g.harvard.edu'>Yuntian</a> (OH: TBD)"
 
 
-dates: ["", "Jan. 23", "Jan. 25", "Jan. 30", "Feb. 1", "Feb. 6", "Feb. 8", "Feb. 13", "Feb. 15","Feb. 20", "Feb. 22", "Feb. 27.", "Mar. 1", "Mar. 6.", "Mar. 8", "Mar. 20", "Mar. 22", "Mar. 27", "Mar. 29", "Apr. 3", "Apr. 5", "Apr. 10", "Apr. 12", "Apr. 17", "Apr. 19", "Apr. 24", "
+dates: ["", "Jan. 28", "Jan. 30", "Feb. 6", "Feb. 8", "Feb. 13", "Feb. 15","Feb. 20", "Feb. 22", "Feb. 27.", "Mar. 1", "Mar. 6.", "Mar. 8", "Mar. 20", "Mar. 22", "Mar. 27", "Mar. 29", "Apr. 3", "Apr. 5", "Apr. 10", "Apr. 12", "Apr. 17", "Apr. 19", "Apr. 24", "
 May 3rd", "May 9th"]
 ohs:
   - time: Tuesday 2:30-4pm
@@ -13,12 +13,9 @@ ohs:
 
 lectures:
   - topic: Sequence Classification
-    subtopic: <a href="lecture1.pdf">Intro</a>| Bag-of-Words
+    subtopic: Basics
     hw:
     papers:
-      - name: "Deep Learning Tutorial"
-        section: Torch
-        link: "http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
       - name: "Baselines and Bigrams"
         section: Fundamental
         link: "http://www.aclweb.org/anthology/P/P12/P12-2.pdf#page=118"
@@ -27,15 +24,15 @@ lectures:
       - name: "Deep Learning, NLP, and Representations"
         section: Blog
         link: "http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/"
+      - name: "Deep Learning Tutorial"
+        section: Torch
+        link: "http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
     section:
     demos:
   - topic:
-    subtopic: Convolutions
+    subtopic: CNNs
     hw:
     papers:
-      - name: "NLP Tutorial (Basic)"
-        section: Torch
-        link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
       - name: "Natural language processing (almost) from scratch"
         section: Fundamental
         link: "https://arxiv.org/abs/1103.0398"
@@ -44,20 +41,24 @@ lectures:
       - name: "Understanding Convolutional Neural Networks for NLP"
         section: Blog
         link: "http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/"
+      - name: "NLP Tutorial (Basic)"
+        section: Coding
+        link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
     section:
     demos:
   - topic: Sequence Modeling
     hw:  "<a href='https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb'>Classification</a> <a href='https://www.kaggle.com/c/harvard-cs281-hw1'>(Kaggle)</a>"
     subtopic: NNLMs
     papers:
-      - name: "Learning Embeddings"
-        link: "http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html"
-        section: Torch
       - name: "A Neural Probabilistic Language Model"
         section: Fundamental
         link: "http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf"
       - name: "Hierarchical Probabilistic Neural Network Language Model"
         link: "https://www.iro.umontreal.ca/~lisa/pointeurs/hierarchical-nnlm-aistats05.pdf"
+      - name: "Learning Embeddings"
+        link: "http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html"
+        section: Torch
+
   - topic:
     subtopic: RNNs
     hw:
@@ -95,7 +96,7 @@ lectures:
       - name: "Named Entity Recognition with Bidirectional LSTM-CNNs"
         section: Application
         link: "https://www.aclweb.org/anthology/Q16-1026"
-      - name: "Deep contextualized word representations (new)"
+      - name: "Deep contextualized word representations"
         link: "https://openreview.net/pdf?id=SJTCsqMUf"
   - topic:
     subtopic: Attention
@@ -298,7 +299,7 @@ lectures:
       - name: "MUTAN: Multimodal Tucker Fusion for Visual Question Answering"
         link: https://arxiv.org/abs/1705.06676
       - name: "Hierarchical Question-Image Co-Attention for Visual Question Answering"
-        link: http://papers.nips.cc/paper/6202-hierarchical-question-image-co-attention-for-visual-question-answering.pdf       
+        link: http://papers.nips.cc/paper/6202-hierarchical-question-image-co-attention-for-visual-question-answering.pdf
   - topic: Final Presentation Talks (Evening)
     subtopic:
   - topic: Final Paper Due
