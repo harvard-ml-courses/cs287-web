@@ -80,7 +80,8 @@ lectures:
         section: Extra
     section:
     demos:
-  - topic: (No Class)
+  - topic: 
+    subtopic: (No Class)
   - topic:  Transduction
     subtopic: Encoding
     papers:
@@ -125,7 +126,7 @@ lectures:
         link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
-  - topic: Latent Variables
+  - topic: Latent Variables (Yoon Kim)
     hw:
     subtopic: TBD
     papers:
