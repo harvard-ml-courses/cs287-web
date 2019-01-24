@@ -3,7 +3,7 @@ tas:
   - name: "<a href='mailto:dengyuntian@g.harvard.edu'>Yuntian</a> (OH: TBD)"
 
 
-dates: ["", "Jan. 28", "Jan. 30", "Feb. 4", "Feb. 6", "Feb. 11", "Feb. 13", "Feb. 20", "Feb. 25", "Feb. 27", "Mar. 4", "Mar. 6", "Mar. 11", "Mar. 13", "Mar. 25", "Mar. 27", "Apr. 1", "Apr. 3", "Apr. 8", "Apr. 10", "Apr. 15", "Apr. 17", "Apr. 22", "Apr. 24", "Apr. 29", "May. 1", "May 11", "May 13"]
+dates: ["", "Jan. 28", "Jan. 30", "Feb. 4", "Feb. 6", "Feb. 11", "Feb. 13", "Feb. 20", "Feb. 21", "Feb. 25", "Feb. 27", "Mar. 4", "Mar. 6", "Mar. 11", "Mar. 13", "Mar. 25", "Mar. 27", "Apr. 1", "Apr. 3", "Apr. 8", "Apr. 10", "Apr. 15", "Apr. 17", "Apr. 22", "Apr. 24", "Apr. 29", "May. 1", "May 11", "May 13"]
 ohs:
   - time: Monday 12-1:30pm
     location: MD 217 (Sasha)
@@ -80,6 +80,7 @@ lectures:
         section: Extra
     section:
     demos:
+  - topic: (No Class)
   - topic:  Transduction
     subtopic: Encoding
     papers:
@@ -107,6 +108,9 @@ lectures:
         link: "https://distill.pub/2016/augmented-rnns/"
     section:
     demos:
+    
+  - topic:
+    subtopic: Sasha Talk
   - topic:
     subtopic: Search
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW2/Homework%202.ipynb">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
