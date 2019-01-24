@@ -80,8 +80,6 @@ lectures:
         section: Extra
     section:
     demos:
-  - topic: 
-    subtopic: (No Class)
   - topic:  Transduction
     subtopic: Encoding
     papers:
@@ -108,10 +106,7 @@ lectures:
         section: Blog
         link: "https://distill.pub/2016/augmented-rnns/"
     section:
-    demos:
-    
-  - topic:
-    subtopic: Sasha Talk
+    demos:    
   - topic:
     subtopic: Search
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW2/Homework%202.ipynb">Modeling</a> <a href="https://www.kaggle.com/c/cs287-hw2-s18">(Kaggle)</a>
@@ -126,6 +121,9 @@ lectures:
         link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
+  - topic:
+    subtopic: (Sasha Colloquium Talk)
+
   - topic: Latent Variables (Yoon Kim)
     hw:
     subtopic: TBD
