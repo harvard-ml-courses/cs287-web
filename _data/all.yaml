@@ -37,6 +37,9 @@ lectures:
         link: "https://arxiv.org/abs/1103.0398"
       - name: "CNNs for Sentence Classification"
         link: "http://aclweb.org/anthology/D/D14/D14-1181.pdf"
+      - name: "GLUE Tasks"
+        link: "https://arxiv.org/pdf/1804.07461.pdf"
+        section: Tasks
       - name: "Understanding CNNs for NLP"
         section: Blog
         link: "http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/"
