@@ -49,7 +49,7 @@ lectures:
     section:
     demos:
   - topic: Sequences
-    hw:  "<a href='https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW1/Homework%201.ipynb'>Classification</a> <a href='https://www.kaggle.com/c/harvard-cs281-hw1'>(Kaggle)</a>"
+    hw:  "<a href='https://colab.research.google.com/drive/1QMB1Q6gmxSsm3VOBuKTtEbE0oFfbkmF2'>Classification</a> <a href='https://www.kaggle.com/c/harvard-cs287-s19-hw1'>(Kaggle)</a>"
     subtopic: NNLMs
     papers:
       - name: "A Neural Probabilistic Language Model"
