@@ -129,7 +129,7 @@ lectures:
   - topic:
     subtopic: (Sasha Colloquium Talk)
 
-  - topic: Latent Variables (Yoon Kim)
+  - topic: Latent Variables 
     hw:
     subtopic: TBD
     papers:
@@ -142,7 +142,7 @@ lectures:
 
   - topic:
     hw:
-    subtopic: Variational Inference/Variational Autoencoders
+    subtopic: Variational Autoencoders (Yoon Kim)
     papers:
       - name: "Variational Inference: A Review for Statisticians"
         section: Tutorial
@@ -175,7 +175,7 @@ lectures:
         link: "https://docs.google.com/spreadsheets/d/1Ig4hHR-0pnLyGcPii6mOmJTO4YtmD_WSpCWpJgwCDm8/edit?usp=sharing"
   - topic: Student Groups
     hw:
-    subtopic: Project
+    subtopic: EthiCS (Guest Lecture)
     papers:
   - topic:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
