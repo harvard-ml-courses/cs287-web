@@ -26,6 +26,8 @@ lectures:
       - name: "Deep Learning Tutorial"
         section: Coding
         link: "http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html"
+      - name: "Named Tensor"
+        link: "http://nlp.seas.harvard.edu/NamedTensor"
     section:
     demos:
   - topic:
