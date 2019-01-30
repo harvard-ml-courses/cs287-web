@@ -49,7 +49,7 @@ lectures:
         section: Coding
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
     section:
-    demos:
+    demos: <a href="https://colab.research.google.com/drive/1KWraXrCmzxW8Mligu4NxpxFpepJyH7Ph">notebook</a>
   - topic: Sequences
     hw:  "<a href='https://colab.research.google.com/drive/1QMB1Q6gmxSsm3VOBuKTtEbE0oFfbkmF2'>Classification</a> <a href='https://www.kaggle.com/c/harvard-cs287-s19-hw1'>(Kaggle)</a>"
     subtopic: NNLMs
