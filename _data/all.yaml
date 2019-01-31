@@ -51,7 +51,7 @@ lectures:
     section:
     demos: <a href="https://colab.research.google.com/drive/1KWraXrCmzxW8Mligu4NxpxFpepJyH7Ph">notebook</a>
   - topic: Sequences
-    hw:  "<a href='https://colab.research.google.com/drive/1QMB1Q6gmxSsm3VOBuKTtEbE0oFfbkmF2'>Classification</a> <a href='https://www.kaggle.com/c/harvard-cs287-s19-hw1'>(Kaggle)</a>"
+    hw:  
     subtopic: NNLMs
     papers:
       - name: "A Neural Probabilistic Language Model"
@@ -65,7 +65,7 @@ lectures:
 
   - topic:
     subtopic: RNNs
-    hw:
+    hw: "<a href='https://colab.research.google.com/drive/1QMB1Q6gmxSsm3VOBuKTtEbE0oFfbkmF2'>Classification</a> <a href='https://www.kaggle.com/c/harvard-cs287-s19-hw1'>(Kaggle)</a>"
     papers:
       - name: "RNN Language Model"
         link: "http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf"
