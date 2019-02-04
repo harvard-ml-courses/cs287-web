@@ -52,6 +52,7 @@ lectures:
     demos: <a href="https://colab.research.google.com/drive/1KWraXrCmzxW8Mligu4NxpxFpepJyH7Ph">notebook</a>
   - topic: Sequences
     hw:  
+    demos: <a href="https://colab.research.google.com/drive/1UuJeGPvlT9TpJMmqeYWR69ISS_h1pYr1">notebook</a>
     subtopic: NNLMs
     papers:
       - name: "A Neural Probabilistic Language Model"
