@@ -63,7 +63,7 @@ lectures:
       - name: "Learning Embeddings"
         link: "http://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html"
         section: Coding
-
+    demos: <a href="https://colab.research.google.com/drive/1BVLkR9A2sbY5nR949fog2eOVKR7O_8os">notebook</a>
   - topic:
     subtopic: RNNs
     hw: "<a href='https://colab.research.google.com/drive/1QMB1Q6gmxSsm3VOBuKTtEbE0oFfbkmF2'>Classification</a> <a href='https://www.kaggle.com/c/harvard-cs287-s19-hw1'>(Kaggle)</a>"
