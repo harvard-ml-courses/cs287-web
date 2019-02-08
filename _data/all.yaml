@@ -115,7 +115,7 @@ lectures:
     demos:    
   - topic:
     subtopic: Search
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW2/Homework%202.ipynb">Modeling</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw2">(Kaggle)</a>
+    hw: <a href="https://colab.research.google.com/drive/1VaE3_HKg_pt2atgqABIvzbWJ2rYUuz_J">Modeling</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw2">(Kaggle)</a>
     papers:
       - name: "Google Neural Machine Translation"
         section:
