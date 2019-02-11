@@ -11,6 +11,7 @@ ohs:
 
 
 lectures:
+  - topic: Intro
   - topic: Classification
     subtopic: Basics
     hw:
@@ -29,7 +30,7 @@ lectures:
       - name: "Named Tensor"
         link: "http://nlp.seas.harvard.edu/NamedTensor"
     section:
-    demos:
+    demos: <a href="https://colab.research.google.com/drive/1KWraXrCmzxW8Mligu4NxpxFpepJyH7Ph">notebook</a>
   - topic:
     subtopic: CNNs
     hw:
@@ -49,7 +50,7 @@ lectures:
         section: Coding
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
     section:
-    demos: <a href="https://colab.research.google.com/drive/1KWraXrCmzxW8Mligu4NxpxFpepJyH7Ph">notebook</a>
+    demos: 
   - topic: Sequences
     hw:  
     demos: <a href="https://colab.research.google.com/drive/1UuJeGPvlT9TpJMmqeYWR69ISS_h1pYr1">notebook</a>
@@ -86,17 +87,6 @@ lectures:
         section: Extra
     section:
     demos:
-  - topic:  Transduction
-    subtopic: Encoding
-    papers:
-      - name: "Sequence-to-Sequence Learning with Recurrent Neural Networks"
-        section: Fundamental
-        link: "https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf"
-      - name: "Named Entity Recognition with Bidirectional LSTM-CNNs"
-        section: Application
-        link: "https://www.aclweb.org/anthology/Q16-1026"
-      - name: "Deep contextualized word representations"
-        link: "https://openreview.net/pdf?id=SJTCsqMUf"
   - topic:
     subtopic: Attention
     papers:
