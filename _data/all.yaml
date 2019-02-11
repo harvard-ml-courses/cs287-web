@@ -12,6 +12,8 @@ ohs:
 
 lectures:
   - topic: Intro
+    papers:
+    hw:
   - topic: Classification
     subtopic: Basics
     hw:
@@ -88,7 +90,7 @@ lectures:
     section:
     demos:
   - topic:
-    subtopic: Attention
+    subtopic: Translation (Yuntian)
     papers:
       - name: "Translation with a Sequence to Sequence Network and Attention"
         section: Coding
@@ -104,7 +106,7 @@ lectures:
     section:
     demos:    
   - topic:
-    subtopic: Search
+    subtopic: Attention + Search 
     hw: <a href="https://colab.research.google.com/drive/1VaE3_HKg_pt2atgqABIvzbWJ2rYUuz_J">Modeling</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw2">(Kaggle)</a>
     papers:
       - name: "Google Neural Machine Translation"
