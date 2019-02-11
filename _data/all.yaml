@@ -52,10 +52,10 @@ lectures:
         section: Coding
         link: "http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html"
     section:
-    demos: 
+    demos: <a href="https://colab.research.google.com/drive/1UuJeGPvlT9TpJMmqeYWR69ISS_h1pYr1">notebook</a>
   - topic: Sequences
     hw:  
-    demos: <a href="https://colab.research.google.com/drive/1UuJeGPvlT9TpJMmqeYWR69ISS_h1pYr1">notebook</a>
+    
     subtopic: NNLMs
     papers:
       - name: "A Neural Probabilistic Language Model"
@@ -88,7 +88,7 @@ lectures:
         link: https://arxiv.org/abs/cs/0108005
         section: Extra
     section:
-    demos:
+    demos: <a href="https://colab.research.google.com/drive/157U2DAbveiV64exyJoGTIbWQFvSmX_1f">notebook</a>
   - topic:
     subtopic: Translation (Yuntian)
     papers:
