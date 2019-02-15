@@ -109,16 +109,20 @@ lectures:
     subtopic: Attention  
     hw: <a href="https://colab.research.google.com/drive/1VaE3_HKg_pt2atgqABIvzbWJ2rYUuz_J">Modeling</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw2">(Kaggle)</a>
     papers:
-      - name: "Google Neural Machine Translation"
+      - name: "Attention is All You Need"
         section:
-        link: "https://arxiv.org/pdf/1609.08144.pdf"
+        link: "https://arxiv.org/abs/1706.03762"
+      - name: "BERT"
+        link: "https://arxiv.org/abs/1810.04805"
       - name: BLEU Score
         link: "https://aclanthology.info/pdf/P/P02/P02-1040.pdf"
-      - name: "Sequence-to-Sequence Learning as Beam-Search Optimization"
-        section: Application
-        link: "https://arxiv.org/pdf/1606.02960.pdf"
       - name: "Sequence-level Training with Recurrent Neural Networks"
         link: "https://arxiv.org/pdf/1511.06732.pdf"
+      - name: "Annotated Transformer"
+        link: "http://nlp.seas.harvard.edu/2018/04/03/attention.html"
+        section: Blog
+      - name: OpenAI Model Blog
+        link: "https://blog.openai.com/better-language-models/"
   - topic:
     subtopic: (Sasha Colloquium Talk)
 
