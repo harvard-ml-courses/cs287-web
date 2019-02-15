@@ -123,8 +123,10 @@ lectures:
         section: Blog
       - name: OpenAI Model Blog
         link: "https://blog.openai.com/better-language-models/"
-  - topic:
-    subtopic: (Sasha Colloquium Talk)
+  - topic: Talk
+    subtopic: Sasha (Thurs 3pm G115)
+    
+    
 
   - topic: Latent Variables 
     hw:
