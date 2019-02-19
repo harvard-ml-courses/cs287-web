@@ -121,17 +121,15 @@ lectures:
       - name: "Annotated Transformer"
         link: "http://nlp.seas.harvard.edu/2018/04/03/attention.html"
         section: Blog
-      - name: OpenAI Model Blog
-        link: "https://blog.openai.com/better-language-models/"
   - topic: Talk
     subtopic: Sasha (Thurs 3pm G115)
     
-    
-
-  - topic: Latent Variables 
+  - topic: 
     hw:
-    subtopic: Discrete
+    subtopic: Guest Lecture: Alec Radford
     papers:
+      - name: OpenAI Model Blog
+        link: "https://blog.openai.com/better-language-models/"
       - name: Distributions and Sampling
         section: Coding
         link: "http://pytorch.org/docs/master/distributions.html"
@@ -139,7 +137,7 @@ lectures:
         section: Tutorial
         link: "https://arxiv.org/abs/1506.05254"
 
-  - topic:
+  - topic: Latent Variables 
     hw:
     subtopic: Variational Autoencoders (Yoon Kim)
     papers:
@@ -155,7 +153,7 @@ lectures:
     section:
     demos:
   - topic:
-    subtopic: Pretraining
+    subtopic: VAE 2
     papers:
   - topic: NLP Topics
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW3/Homework3.ipynb">Translation</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw3">(Kaggle)</a>
