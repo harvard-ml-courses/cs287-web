@@ -123,12 +123,15 @@ lectures:
         section: Blog
   - topic: Talk
     subtopic: Sasha (Thurs 3pm G115)
+    papers:
+    hw: 
     
   - topic: 
     hw:
     subtopic: Guest Lecture: Alec Radford
     papers:
       - name: OpenAI Model Blog
+        section: Blog
         link: "https://blog.openai.com/better-language-models/"
       - name: Distributions and Sampling
         section: Coding
