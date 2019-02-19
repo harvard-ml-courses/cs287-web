@@ -55,7 +55,6 @@ lectures:
     demos: <a href="https://colab.research.google.com/drive/1UuJeGPvlT9TpJMmqeYWR69ISS_h1pYr1">notebook</a>
   - topic: Sequences
     hw:  
-    
     subtopic: NNLMs
     papers:
       - name: "A Neural Probabilistic Language Model"
@@ -128,7 +127,7 @@ lectures:
     
   - topic: 
     hw:
-    subtopic: Guest Lecture: Alec Radford
+    subtopic: "Guest Lecture: Alec Radford"
     papers:
       - name: OpenAI Model Blog
         section: Blog
