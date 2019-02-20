@@ -106,7 +106,7 @@ lectures:
     demos:    
   - topic:
     subtopic: Attention  
-    demo: <a href="https://colab.research.google.com/drive/1kyhgYa-5RE39gGtDeLDT7jRHoszbByWD">notebook</a>
+    demos: <a href="https://colab.research.google.com/drive/1kyhgYa-5RE39gGtDeLDT7jRHoszbByWD">notebook</a>
     hw: <a href="https://colab.research.google.com/drive/1VaE3_HKg_pt2atgqABIvzbWJ2rYUuz_J">Modeling</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw2">(Kaggle)</a>
     papers:
       - name: "Attention is All You Need"
