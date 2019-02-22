@@ -159,7 +159,7 @@ lectures:
     subtopic: VAE 2
     papers:
   - topic: NLP Topics
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW3/Homework3.ipynb">Translation</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw3">(Kaggle)</a>
+    hw: <a href="https://colab.research.google.com/drive/1hWdt_El3Ss0oQsnD9OOI3LaJndmUzKFy">Translation</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw3">(Kaggle)</a>
     subtopic: Problem and Datasets
     papers:
   - topic: Midterm
