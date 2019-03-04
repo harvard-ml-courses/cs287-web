@@ -156,7 +156,7 @@ lectures:
     section:
     demos:
   - topic:
-    subtopic: VAE 2
+    subtopic: Latent Variables 2
     papers:
       - name: "Tutorial Slides"
         section: Tutorial
@@ -164,7 +164,8 @@ lectures:
       - section: Coding
         name: "Pytorch Distributions"
         link: "https://pytorch.org/docs/stable/distributions.html"
-      
+    demos: <a href="https://colab.research.google.com/drive/1CS-G8sKUZvwf3ZqwAkGqFVuqbSoxrWdL">notebook</a>
+        
   - topic: NLP Topics
     hw: <a href="https://colab.research.google.com/drive/1hWdt_El3Ss0oQsnD9OOI3LaJndmUzKFy">Translation</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw3">(Kaggle)</a>
     subtopic: Problem and Datasets
