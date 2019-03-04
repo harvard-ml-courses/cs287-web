@@ -158,6 +158,13 @@ lectures:
   - topic:
     subtopic: VAE 2
     papers:
+      - name: "Tutorial Slides"
+        section: Tutorial
+        link: "http://nlp.seas.harvard.edu/latent-nlp-tutorial.html"
+      - section: Coding
+        name: "Pytorch Distributions"
+        link: "https://pytorch.org/docs/stable/distributions.html"
+      
   - topic: NLP Topics
     hw: <a href="https://colab.research.google.com/drive/1hWdt_El3Ss0oQsnD9OOI3LaJndmUzKFy">Translation</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw3">(Kaggle)</a>
     subtopic: Problem and Datasets
