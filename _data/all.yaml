@@ -3,7 +3,7 @@ tas:
   - name: "<a href='mailto:dengyuntian@g.harvard.edu'>Yuntian</a> (OH: Wednesday 4pm-5pm, MD 2nd floor lounge)"
 
 
-dates: ["", "Jan. 28", "Jan. 30", "Feb. 4", "Feb. 6", "Feb. 11", "Feb. 13", "Feb. 20", "Feb. 21", "Feb. 25", "Feb. 27", "Mar. 4", "Mar. 6", "Mar. 11", "Mar. 13", "Mar. 25", "Mar. 27", "Apr. 1", "Apr. 3", "Apr. 8", "Apr. 10", "Apr. 15", "Apr. 17", "Apr. 22", "Apr. 24", "Apr. 29", "May. 1", "May 11", "May 13"]
+dates: ["", "Jan. 28", "Jan. 30", "Feb. 4", "Feb. 6", "Feb. 11", "Feb. 13", "Feb. 20", "Feb. 21", "Feb. 25", "Feb. 27", "Mar. 4", "Mar. 6", "Mar. 11", "Mar. 13", "Mar. 13", "Mar. 25", "Mar. 27", "Apr. 1", "Apr. 3", "Apr. 8", "Apr. 10", "Apr. 15", "Apr. 17", "Apr. 22", "Apr. 24", "Apr. 29", "May. 1", "May 11", "May 13"]
 ohs:
   - time: Monday 12-1:30pm
     location: MD 217 (Sasha)
@@ -178,7 +178,11 @@ lectures:
         link: "https://arxiv.org/abs/1902.01382"
       - name: "Visual Reasoning from Photographs"
         link: "https://arxiv.org/abs/1811.00491"
-
+  - topic: 
+    hw: 
+    subtopic: Yann LeCunn Talk
+    papers:
+    demos:
   - topic: Midterm
     subtopic:
     papers:
