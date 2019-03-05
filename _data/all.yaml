@@ -178,11 +178,7 @@ lectures:
         link: "https://arxiv.org/abs/1902.01382"
       - name: "Visual Reasoning from Photographs"
         link: "https://arxiv.org/abs/1811.00491"
-  - topic: 
-    hw: 
-    subtopic: Yann LeCunn Talk
-    papers:
-    demos:
+
   - topic: Midterm
     subtopic:
     papers:
@@ -194,6 +190,11 @@ lectures:
     papers:
       - name: Presentation Sign-ups
         link: "https://docs.google.com/spreadsheets/d/1EMh8E87fWvI0KSE2fhUFdpGNp4zwaf13DJYSNQlcGwE/edit?usp=sharing"
+  - topic: 
+    hw: 
+    subtopic: Yann LeCunn Talk
+    papers:
+    demos:
   - topic: Student Groups
     hw:
     subtopic: EthiCS (Guest Lecture)
