@@ -204,11 +204,11 @@ lectures:
     subtopic: Project
     papers:
   - topic:
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a>
+    hw: 
     subtopic: Project
     papers:
   - topic:
-    hw:
+    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a>
     subtopic: Project
     papers:
   - topic:
