@@ -197,11 +197,11 @@ lectures:
     demos:
   - topic: Student Groups
     hw:
-    subtopic: EthiCS (Guest Lecture)
+    subtopic: Project
     papers:
   - topic:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
-    subtopic: Project
+    subtopic: EthiCS (Fairness + Bias)
     papers:
   - topic:
     hw: 
