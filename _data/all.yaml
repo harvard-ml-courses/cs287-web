@@ -195,9 +195,9 @@ lectures:
     subtopic: Yann LeCunn Talk
     papers:
     demos:
-  - topic: Student Groups
+  - topic: 
     hw:
-    subtopic: Project
+    subtopic: Class Lab / Office Hours
     papers:
   - topic:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
@@ -211,7 +211,7 @@ lectures:
     subtopic: Project
     papers:
   - topic:
-    hw: <a href="https://colab.research.google.com/drive/1edrI58NSCnibBrCW_Uy3cimoe88bD0G1">Latent Variables</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw4">(Kaggle)</a>
+    hw: <a href="https://colab.research.google.com/drive/1edrI58NSCnibBrCW_Uy3cimoe88bD0G1">Attention</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw4">(Kaggle)</a>
     subtopic: Project
     papers:
   - topic:
