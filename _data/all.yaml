@@ -203,12 +203,15 @@ lectures:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
     subtopic: EthiCS (Fairness + Bias)
     papers:
+      - name: "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings"
+        link: "https://arxiv.org/pdf/1607.06520.pdf"
+
   - topic:
     hw: 
     subtopic: Project
     papers:
   - topic:
-    hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/HW4/Homework4.ipynb">Latent Variables</a>
+    hw: <a href="https://colab.research.google.com/drive/1edrI58NSCnibBrCW_Uy3cimoe88bD0G1">Latent Variables</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw4">(Kaggle)</a>
     subtopic: Project
     papers:
   - topic:
