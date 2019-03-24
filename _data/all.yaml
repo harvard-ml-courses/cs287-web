@@ -197,14 +197,18 @@ lectures:
     demos:
   - topic: 
     hw:
-    subtopic: Class Lab / Office Hours
-    papers:
+    subtopic: Project / Office Hours
+    papers: 
+      - name: "Rationalizing Neural Predictions"
+        link: "https://arxiv.org/abs/1606.04155"
   - topic:
     hw: <a href="https://github.com/harvard-ml-courses/cs287-s18/blob/master/projects/abstract.md">Final Project Abstracts</a>
     subtopic: EthiCS (Fairness + Bias)
     papers:
       - name: "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings"
         link: "https://arxiv.org/pdf/1607.06520.pdf"
+      - name: "Women also Snowboard"
+        link: "https://arxiv.org/abs/1803.09797"
 
   - topic:
     hw: 
