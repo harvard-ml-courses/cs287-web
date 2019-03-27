@@ -3,7 +3,7 @@ tas:
   - name: "<a href='mailto:dengyuntian@g.harvard.edu'>Yuntian</a> (OH: Wednesday 4pm-5pm, MD 2nd floor lounge)"
 
 
-dates: ["", "Jan. 28", "Jan. 30", "Feb. 4", "Feb. 6", "Feb. 11", "Feb. 13", "Feb. 20", "Feb. 21", "Feb. 25", "Feb. 27", "Mar. 4", "Mar. 6", "Mar. 11", "Mar. 13", "Mar. 13", "Mar. 25", "Mar. 27", "Apr. 1", "Apr. 3", "Apr. 8", "Apr. 10", "Apr. 15", "Apr. 17", "Apr. 22", "Apr. 24", "Apr. 29", "May. 1", "May 11", "May 13"]
+dates: ["", "Jan. 28", "Jan. 30", "Feb. 4", "Feb. 6", "Feb. 11", "Feb. 13", "Feb. 20", "Feb. 21", "Feb. 25", "Feb. 27", "Mar. 4", "Mar. 6", "Mar. 11", "Mar. 13", "Mar. 13", "Mar. 25", "Mar. 27", "Mar. 28", "Apr. 1", "Apr. 3", "Apr. 8", "Apr. 10", "Apr. 15", "Apr. 17", "Apr. 22", "Apr. 24", "Apr. 29", "May. 1", "May 11", "May 13"]
 ohs:
   - time: Monday 12-1:30pm
     location: MD 217 (Sasha)
@@ -209,13 +209,17 @@ lectures:
         link: "https://arxiv.org/pdf/1607.06520.pdf"
       - name: "Women also Snowboard"
         link: "https://arxiv.org/abs/1803.09797"
-
+  - topic: 
+    hw: 
+    subtopic: <a href="https://www.seas.harvard.edu/calendar/event/121861">Timnit Gebru</a> (3pm MD 115)
+    papers:
+    demos:
   - topic:
     hw: 
     subtopic: Project
     papers:
   - topic:
-    hw: <a href="https://colab.research.google.com/drive/1edrI58NSCnibBrCW_Uy3cimoe88bD0G1">Attention</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw4">(Kaggle)</a>
+    hw: <a href="https://colab.research.google.com/drive/1edrI58NSCnibBrCW_Uy3cimoe88bD0G1">Attention</a> <a href="https://github.com/harvard-ml-courses/cs287-web/blob/master/NLP%20Assignment.pdf">Ethics</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw4">(Kaggle)</a>
     subtopic: Project
     papers:
   - topic:
