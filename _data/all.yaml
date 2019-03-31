@@ -216,8 +216,10 @@ lectures:
     demos:
   - topic:
     hw: 
-    subtopic: Project
-    papers:
+    subtopic: Probing Models
+    papers: 
+       - name: "Identifying and Controlling Important Neurons in Neural Machine Translation"
+         link: "https://openreview.net/forum?id=H1z-PsR5KX"
   - topic:
     hw: <a href="https://colab.research.google.com/drive/1edrI58NSCnibBrCW_Uy3cimoe88bD0G1">Attention</a> <a href="https://github.com/harvard-ml-courses/cs287-web/blob/master/NLP%20Assignment.pdf">Ethics</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw4">(Kaggle)</a>
     subtopic: Project
