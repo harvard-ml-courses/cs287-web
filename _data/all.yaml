@@ -238,6 +238,8 @@ lectures:
     hw:
     subtopic: Project
     papers:
+        - name: "Improving Grammatical Error Correction via Pre-Training"
+          link: "https://arxiv.org/abs/1903.00138"
   - topic:
     hw:
     subtopic: Project
