@@ -232,6 +232,8 @@ lectures:
     hw:
     subtopic: Project
     papers:
+        - name: "GQA: A New Dataset for Compositional Question Answering over Real-World Images"
+          link: "https://arxiv.org/abs/1902.09506"
   - topic:
     hw:
     subtopic: Project
@@ -240,12 +242,16 @@ lectures:
     hw:
     subtopic: Project
     papers:
+        - name: "A Comprehensive Survey on Graph Neural Networks "
+          link: "https://arxiv.org/abs/1901.00596"
   - topic:
     hw:
     subtopic: Project
     papers:
         - name: "Neural Discrete Representation Learning"
           link: "https://arxiv.org/abs/1711.00937"
+        - name: "Gtr-lstm: A triple encoder for sentence generation from rdf data"
+          link: "https://aclweb.org/anthology/P18-1151"
   - topic:
     hw:
     subtopic: Project
