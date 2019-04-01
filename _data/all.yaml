@@ -264,6 +264,9 @@ lectures:
     hw:
     subtopic: Project
     papers:
+        - name: "Improving neural machine  translation  models  with  monolingual  data."
+          link: "https://www.aclweb.org/anthology/P16-1009.pdf"
+          
   - topic:
     hw:
     subtopic: Project
@@ -272,6 +275,8 @@ lectures:
     hw:
     subtopic: Project
     papers:
+        - name: "Learning to reason: End-to-end module networks for visual question answering."
+          link: "https://arxiv.org/abs/1704.05526"
 
   - topic: Final Presentation Talks (Evening)
     subtopic:
