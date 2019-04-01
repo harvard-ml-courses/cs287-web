@@ -244,6 +244,8 @@ lectures:
     hw:
     subtopic: Project
     papers:
+        - name: "Neural Discrete Representation Learning"
+          link: "https://arxiv.org/abs/1711.00937"
   - topic:
     hw:
     subtopic: Project
