@@ -228,6 +228,8 @@ lectures:
     hw:
     subtopic: Project
     papers:
+        - name: "Pretraining-Based Natural Language Generation for Text Summarization"
+          link: "https://arxiv.org/pdf/1902.09243.pdf"
   - topic:
     hw:
     subtopic: Project
