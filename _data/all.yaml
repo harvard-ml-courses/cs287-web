@@ -224,12 +224,14 @@ lectures:
     hw: <a href="https://colab.research.google.com/drive/1edrI58NSCnibBrCW_Uy3cimoe88bD0G1">Attention</a> <a href="https://github.com/harvard-ml-courses/cs287-web/blob/master/NLP%20Assignment.pdf">Ethics</a> <a href="https://www.kaggle.com/c/harvard-cs287-s19-hw4">(Kaggle)</a>
     subtopic: Project
     papers:
+        - name: "Pretraining-Based Natural Language Generation for Text Summarization"
+          link: "https://arxiv.org/pdf/1902.09243.pdf"
   - topic:
     hw:
     subtopic: Project
     papers:
-        - name: "Pretraining-Based Natural Language Generation for Text Summarization"
-          link: "https://arxiv.org/pdf/1902.09243.pdf"
+        - name: ""
+          link: ""
   - topic:
     hw:
     subtopic: Project
@@ -242,6 +244,8 @@ lectures:
     papers:
         - name: "Improving Grammatical Error Correction via Pre-Training"
           link: "https://arxiv.org/abs/1903.00138"
+        - name: "Sequence Level Training with Recurrent Neural Networks"
+          link: "https://arxiv.org/abs/1511.06732"
   - topic:
     hw:
     subtopic: Project
