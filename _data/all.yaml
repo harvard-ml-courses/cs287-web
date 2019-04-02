@@ -284,7 +284,7 @@ lectures:
         - name: "Learning   libraries   of   subroutines   for   neurally–guided bayesian program induction."
           link: "https://papers.nips.cc/paper/8006-learning-libraries-of-subroutines-for-neurallyguided-bayesian-program-induction"
 
- - topic:
+  - topic:
     hw:
     subtopic: Project
     papers:
