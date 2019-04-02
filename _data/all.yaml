@@ -226,14 +226,16 @@ lectures:
     papers:
         - name: "Pretraining-Based Natural Language Generation for Text Summarization"
           link: "https://arxiv.org/pdf/1902.09243.pdf"
-        - name: "Learning Latent Permutations with Gumbel-Sinkhorn Networks"
-          link: "https://arxiv.org/abs/1802.08665"
+        - name: "Non-parametric adaptation for neural machine translation"
+          link: "https://arxiv.org/abs/1903.00058"
   - topic:
     hw:
     subtopic: Project
     papers:
-        - name: ""
-          link: ""
+        - name: "Learning Latent Permutations with Gumbel-Sinkhorn Networks"
+          link: "https://arxiv.org/abs/1802.08665"
+        - name: "Bottom-Up Abstractive Summarization"
+          link: "https://arxiv.org/abs/1808.10792"
   - topic:
     hw:
     subtopic: Project
