@@ -242,14 +242,14 @@ lectures:
     papers:
         - name: "GQA: A New Dataset for Compositional Question Answering over Real-World Images"
           link: "https://arxiv.org/abs/1902.09506"
-        - name: "Learning protein sequence embeddings using information from structure"
-          link: "https://openreview.net/forum?id=SygLehCqtm"
+        - name: "Neural Discrete Representation Learning"
+          link: "https://arxiv.org/abs/1711.00937"
   - topic:
     hw:
     subtopic: Project
     papers:
-        - name: "Improving Grammatical Error Correction via Pre-Training"
-          link: "https://arxiv.org/abs/1903.00138"
+        - name: "Learning protein sequence embeddings using information from structure"
+          link: "https://openreview.net/forum?id=SygLehCqtm"
         - name: "Sequence Level Training with Recurrent Neural Networks"
           link: "https://arxiv.org/abs/1511.06732"
   - topic:
@@ -258,6 +258,9 @@ lectures:
     papers:
         - name: "A Comprehensive Survey on Graph Neural Networks "
           link: "https://arxiv.org/abs/1901.00596"
+        - name: "Improving Grammatical Error Correction via Pre-Training"
+          link: "https://arxiv.org/abs/1903.00138"
+
   - topic:
     hw:
     subtopic: Project
@@ -272,18 +275,19 @@ lectures:
     papers:
         - name: "Improving neural machine  translation  models  with  monolingual  data."
           link: "https://www.aclweb.org/anthology/P16-1009.pdf"
-          
-  - topic:
-    hw:
-    subtopic: Project
-    papers:
   - topic:
     hw:
     subtopic: Project
     papers:
         - name: "Learning to reason: End-to-end module networks for visual question answering."
           link: "https://arxiv.org/abs/1704.05526"
+        - name: "Learning   libraries   of   subroutines   for   neurally–guided bayesian program induction."
+          link: "https://papers.nips.cc/paper/8006-learning-libraries-of-subroutines-for-neurallyguided-bayesian-program-induction"
 
+ - topic:
+    hw:
+    subtopic: Project
+    papers:
   - topic: Final Presentation Talks (Evening)
     subtopic:
   - topic: Final Paper Due
