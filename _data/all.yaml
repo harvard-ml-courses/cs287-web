@@ -275,6 +275,8 @@ lectures:
     papers:
         - name: "Improving neural machine  translation  models  with  monolingual  data."
           link: "https://www.aclweb.org/anthology/P16-1009.pdf"
+        - name: "Fast Decoding in Sequence Models Using Discrete Latent Variables."
+          link: "https://arxiv.org/abs/1803.03382"
   - topic:
     hw:
     subtopic: Project
